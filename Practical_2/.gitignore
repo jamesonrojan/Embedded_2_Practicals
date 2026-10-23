@@ -1,0 +1,12 @@
+# build output
+build/
+
+# created on each machine by STM32CubeIDE when the project is imported
+.project
+.cproject
+.settings/
+
+# local editor / OS metadata
+.DS_Store
+*.swp
+*~
